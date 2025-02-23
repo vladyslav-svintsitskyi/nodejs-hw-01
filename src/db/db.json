@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "09242e1f-463d-456d-8376-b8aca24bdec5",
+    "name": "Rachel Kohler V",
+    "phone": "980.923.3814 x424",
+    "email": "Nicholas74@gmail.com",
+    "job": "Senior Group Producer"
+  },
+  {
+    "id": "c613c8b7-095b-4ad2-83b1-c8a7b4167f3d",
+    "name": "Diane Hickle-Nolan",
+    "phone": "584-990-6905 x3801",
+    "email": "Kamren.Mante94@yahoo.com",
+    "job": "Central Paradigm Officer"
+  },
+  {
+    "id": "5d84b65e-875d-471c-8a5a-e21d0e9dabe2",
+    "name": "Gregory Altenwerth I",
+    "phone": "(564) 335-6433 x488",
+    "email": "Susana_Osinski21@gmail.com",
+    "job": "Future Tactics Administrator"
+  },
+  {
+    "id": "7d0edd1f-e2e3-4f4d-8b49-ee9042f21677",
+    "name": "Antonio Ferry",
+    "phone": "(720) 867-6712 x14556",
+    "email": "Gunner.Feeney@gmail.com",
+    "job": "Legacy Web Assistant"
+  }
+]
